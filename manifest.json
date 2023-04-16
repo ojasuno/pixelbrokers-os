@@ -1,0 +1,14 @@
+{
+  "name": "PixelBrokers OS",
+  "description": "PixelBrokers OS — your home for all things PixelBrokers.",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "icons": {
+    "48": "assets/48.png",
+    "128": "assets/128.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "tab_override.html"
+  },
+  "permissions": ["tabs"]
+}
