@@ -6,8 +6,6 @@
 - No additional code required
 - It will take less than a minute
 
-**We put together 2 min video of all the steps — [click here to check it out](https://www.loom.com/share/8fa37295dc6d47fd945b348dab52fda1)**
-
 ### 1. Download
 Click the green "Code" button and select "Download ZIP". Save it in a safe spot!<br>
 ![](/assets/step_one.png)
